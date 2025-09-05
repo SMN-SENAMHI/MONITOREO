@@ -1,7 +1,4 @@
-# ================================================================
 # REGISTRO Y AUTENTICACIÓN – EARTH DATA HUB (DestinE)
-# ================================================================
-
 Guía rápida para registro, autenticación y uso de catálogos en la plataforma DestinE Earth Data Hub.
 
 ---
