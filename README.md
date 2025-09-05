@@ -7,6 +7,22 @@ Guía rápida para registro, autenticación y uso de catálogos en la plataforma
 
 - Información general: 👉 [Earth Data Hub – Getting Started](https://earthdatahub.destine.eu/getting-started)  
 - Registrase en la plataforma en 👉 **Sign in**.
+## Registro y autenticación
+
+- **Registro (sign up):**  
+  [https://auth.destine.eu/realms/desp/login-actions/registration?client_id=edh-public](https://auth.destine.eu/realms/desp/login-actions/registration?client_id=edh-public)
+
+- **Inicio de sesión (sign in):**  
+  [https://auth.destine.eu](https://auth.destine.eu)
+
+- **Plataforma de datos (post-login):**  
+  [https://earthdatahub.destine.eu](https://earthdatahub.destine.eu)
+
+- **Guía de inicio:**  
+  [Getting Started – Earth Data Hub](https://earthdatahub.destine.eu/getting-started)
+
+  
+- 
 - ⚠️Recomendable usar correo institucional para mayor acceso al catalogo.
 - Ingresar con su cuenta creada.
 - Activar TOKEN en 👉 https://earthdatahub.destine.eu/account-settings
