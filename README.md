@@ -1,15 +1,11 @@
-Trabajo en el Earth Data Hub (DestinE).
+edh-learning
+Earth Data Hub learning resources
 
-Te lo confirmo en pasos:
+Setup
+Install the uv package manager, e.g. pip install uv or conda install uv.
 
-Registro en el portal → primero te creas la cuenta.
+Clone this repo, enter the repo folder and start Jupyter Lab in an isolated environment without messing up your existing Python installations.
 
-Obtener el token personal en account settings.
-
-Recomendación de correo → institucional mejor que Gmail.
-
-Datos de ejemplo (email, user, pass, UID, cuota, token).
-
-Autenticación en HPC → guardar el token en ~/.netrc con permisos.
-
-Consulta de catálogos → una vez autenticado, ya puedes acceder a datasets.
+git clone git@github.com:bopen/edh-learning.git
+cd edh-learning
+uv run jupyter lab
