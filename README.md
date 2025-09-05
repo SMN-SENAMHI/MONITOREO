@@ -3,7 +3,7 @@
 # ================================================================
 
 # Registro en el portal:
-#   https://earthdatahub.destine.eu/getting-started
+#   https://earthdatahub.destine.eu/getting-started 
 #
 # Sección de interés:
 #   "How to obtain an Earth Data Hub personal access token"
