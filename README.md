@@ -1,5 +1,5 @@
 # ================================================================
-# SECCIÓN DE COMENTARIOS – EARTH DATA HUB (DestinE)
+# SECCIÓN DE COMENTARIOS – EARTH DATA HUB (DestinE) 
 # ================================================================
 
 # Registro en el portal:
