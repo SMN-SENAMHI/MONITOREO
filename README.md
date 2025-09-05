@@ -10,6 +10,21 @@ Guía rápida para registro, autenticación y uso de catálogos en la plataforma
 - Crear tu cuenta en la plataforma **DestinE**.  
 - Ingresar a **Account Settings** para gestionar tus *tokens personales*.
 
+- ## Plataforma DestinE – Autenticación
+
+- La autenticación a Earth Data Hub se hace a través de la plataforma **DestinE Auth**:  
+  [https://auth.destine.eu](https://auth.destine.eu)
+
+- Una vez autenticado, el sistema redirige a:  
+  [https://earthdatahub.destine.eu](https://earthdatahub.destine.eu)
+
+- Registro inicial y pasos de configuración:  
+  👉 [Earth Data Hub – Getting Started](https://earthdatahub.destine.eu/getting-started)
+
+- Configuración de tokens personales:  
+  👉 [Earth Data Hub – Account Settings](https://earthdatahub.destine.eu/account-settings)
+
+
 ⚠️ **Recomendación:** usar correo institucional/profesional.  
 El Gmail solo se acepta si no cuentas con correo institucional, pero no es lo recomendado.
 
